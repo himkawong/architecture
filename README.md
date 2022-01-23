@@ -16,3 +16,11 @@
 4. Small
 
 Ref: [Book](http://www.r-5.org/files/books/computers/languages/ruby/main/Corey_Haines-The_Four_Rules_of_Simple_Design-EN.pdf)
+
+## NoSQL
+### MongoDB
+* [Mongo ACID Transaction](https://www.mongodb.com/basics/acid-transactions)
+* [Mongo Atomic Operation](https://docs.mongodb.com/manual/tutorial/model-data-for-atomic-operations/)
+
+
+
