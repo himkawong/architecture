@@ -1,5 +1,6 @@
 # Awesome Softeware Architecture and Design
 
+> Build the Right Software. Build the Software Right.
 
 ## Design Principles
 ### [SOLID](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
@@ -21,6 +22,21 @@ Ref: [Book](http://www.r-5.org/files/books/computers/languages/ruby/main/Corey_H
 ### MongoDB
 * [Mongo ACID Transaction](https://www.mongodb.com/basics/acid-transactions)
 * [Mongo Atomic Operation](https://docs.mongodb.com/manual/tutorial/model-data-for-atomic-operations/)
+
+## Cloud Design Patterns
+* https://docs.microsoft.com/en-us/azure/architecture/patterns/
+
+## DDD
+
+## BDD
+
+* [SpecFlow] BDD with .NET
+* [Cucumber] BDD with Java
+
+## TDD
+
+
+
 
 
 
