@@ -1,4 +1,4 @@
-# Awesome Softeware Architecture and Design
+# Practical Architect
 
 > Build the Right Software. Build the Software Right.
 
