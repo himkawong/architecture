@@ -1,4 +1,4 @@
-# Practical Architect
+https://github.com/himkawong/architecture.git# Practical Architect
 
 > Build the Right Software. Build the Software Right.
 
@@ -18,6 +18,14 @@
 
 Ref: [Book](http://www.r-5.org/files/books/computers/languages/ruby/main/Corey_Haines-The_Four_Rules_of_Simple_Design-EN.pdf)
 
+
+## High Performance
+
+### Database
+* SQL Optimization
+* [Database Read-Write Seperation](high-performance/db-read-write-seperation.md)
+* [Database Partitioning and Sharding](high-performance/db-partitioning.md)
+
 ## NoSQL
 ### MongoDB
 * [Mongo ACID Transaction](https://www.mongodb.com/basics/acid-transactions)
@@ -34,6 +42,8 @@ Ref: [Book](http://www.r-5.org/files/books/computers/languages/ruby/main/Corey_H
 * [Cucumber] BDD with Java
 
 ## TDD
+
+
 
 
 
